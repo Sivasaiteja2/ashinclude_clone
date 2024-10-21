@@ -1,0 +1,83 @@
+body{
+    background-color: #161616;
+    color: white;
+}
+.navbar{
+    max-width: 85%;
+    margin: auto;
+    margin-left: 8%;
+    margin-right: 15%;
+}
+.aboutUs {
+    background-color: #212121;
+    padding: 6%;
+    max-width: 95%;
+    margin: auto;
+}
+
+.absec1 {
+    padding-left: 24%;
+}
+.line1 {
+    margin-top: 14px;
+    margin-right: 10px;
+    background-color: #F8DA64;
+    width: 40px;
+    height:3px;
+}
+.inline1 {
+    display: flex;
+    color: #818c96;
+    font-size: 20px;
+}
+.inline2 {
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    color: #818c96;
+    font-size: 20px;
+}
+.aboutus-p {
+    color: #818c96;
+    padding-bottom: 20px;
+}
+.absec1 a {
+    border-radius: 6px;
+    padding: 6px 25px;
+    color: #F8DA64;
+    border: 1px solid #F8DA64;
+    text-decoration: none;
+}
+.absec1 h2{
+    padding-bottom: 20px;
+}
+.us{
+    display: flex;
+    margin-top: 4%;
+}
+.bottom_section {
+    width: 25%;
+    text-align: center;
+}
+h2.num {
+    font-size: xx-large;
+    color: white;
+}
+span.symbol {
+    color:#f8da63
+}
+.container-1{
+    color: white;
+    max-width: 90%;
+    margin: auto;
+}
+.heading-our-team {
+    text-align: center;
+}
+.normal-text {
+    text-align: center;
+}
+.ourteam {
+    max-width: 15%;
+    margin: auto;
+ }

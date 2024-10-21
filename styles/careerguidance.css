@@ -1,0 +1,17 @@
+.navbar{
+    max-width: 85%;
+    margin: auto;
+    margin-left: 8%;
+    margin-right: 15%;
+}
+section{
+    max-width: 85%;
+    margin:auto;
+}
+body{
+    background-color: #161616;
+    color: white;
+}
+.sec1{
+    padding: 30px;
+}

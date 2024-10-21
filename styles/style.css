@@ -1,0 +1,376 @@
+.navbar{
+    max-width: 85%;
+    margin: auto;
+    margin-left: 8%;
+    margin-right: 15%;
+}
+section{
+    max-width: 85%;
+    margin:auto;
+}
+body{
+    background-color: #161616;
+    color: white;
+}
+.sec1{
+    padding: 30px;
+}
+.section1{ 
+    border-bottom: 2px solid white ;
+    border-left: 2px solid white ;
+    border-radius: 0px 0px 70px 70px;
+}
+.banner-img{
+    position: absolute;
+}
+.circle{
+    position: relative;    
+}
+.circle img{
+    position:absolute;
+    border: 30px solid blue;
+    border-radius: 50%;
+    left: 39%;
+    top: -131px;
+}
+.nslbtn{
+    margin: 20px 0px;
+    width:180px;
+}
+.explorebtn{
+    padding: 15px;
+    background-color: #F8DA64;
+    margin: 20px;
+}
+/* from here popular course sections style sheet start */
+.popularcourse{
+    margin-top: 10%;
+}
+.headpc {
+    /* margin-top: 5%; */
+    font-size: 46px;
+    font-weight: 600;
+}
+.heading {
+    margin-top: 10%;
+    max-width: 23%;
+    margin: auto;
+}
+.pcourse {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
+.pcourse a{
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 4px;
+    color:#818c96;
+    margin: 15px;
+    padding: 5px 18px;
+}
+a.active {
+    background: #624bff;
+    color: white;
+}
+.smcard {
+    display: flex;
+    background-color: white;
+    border: 1px;
+    border-radius: 50px;
+    padding: 3px 15px;
+    color: #818c96;
+    position: relative;
+    margin: auto;
+    max-width: 80%;
+    bottom: 18px;
+}
+.smcard p{
+    padding-top: 8px;
+    padding-left: 5px;
+}
+.frontend {
+    background-color: #212121;
+    color:#818c96;
+    padding-bottom: 28px;
+    border-radius: 8px;
+}
+    
+.fullstack {
+    background-color: #212121;
+    padding-bottom: 26px;
+    border-radius: 8px;
+}
+.uiux {
+    background-color: #212121;
+    padding-bottom: 26px;
+    border-radius: 8px;
+    
+}
+.text-side {
+    padding: 20px;
+    
+    color:#818c96;
+}
+.text-side-2 {
+    padding: 18px 18px 0px 18px;
+    
+    color:#818c96;
+}
+.text-side h6{
+    color:white;
+}
+.text-side-2 h6{
+    color:white;
+}
+.btnlm a{
+    text-decoration: none;
+    border: 1px solid#F8DA64;
+    color: #F8DA64;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 200px;
+}
+
+/* from here whyus style sheet section starts */
+
+.why_us {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.why_us img {
+    padding-top: 20px;
+}
+.why_us p{
+    text-align: center;
+    color:#818c96;
+    max-width: 50%;
+    margin: auto;
+    padding-top: 20px;
+}
+.options{
+    border: 15px solid #161616;
+    background-color: #212121;
+    height: 200px;
+    border-radius: 25px;
+    padding: 10px;
+}
+.options p{
+    color: white;
+}
+.sec-whywe {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #212121;
+    max-width: 95%;
+    margin: auto;
+}
+.inline{
+    display: flex;
+    max-width: 14%;
+    margin: auto;
+    margin-top: 42px;
+}
+.inline p{
+    color:#818c96;
+}
+.heading-ble{
+    font-size: 40px;
+    text-align: center;
+}
+.line {
+    margin-top: 11px;
+    margin-right: 10px;
+    background-color: #F8DA64;
+    width: 40px;
+    height:3px;
+}
+.learnigexp {
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 17px;
+    margin: 19px;
+    width: 22%;
+}
+.learnigexp img {
+    padding: 15px;
+}
+.outtext {
+    text-align: left;
+    color:#818c96;
+}
+.teamsection {
+    margin: auto;
+    max-width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.team-text-sec {
+    padding-left: 4%;
+}
+.rows {
+    display: flex;
+}
+.rows img {
+    padding: 17px;
+}
+.rows p {
+    padding-top: 16px;
+}
+.who_heading {
+    font-size: 35px;
+    
+    margin: 15px;
+}
+.btn-training a{
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px;
+    background-color: #D4E1FF;
+}
+
+/* from here aboutus style section starts */
+
+.aboutUs {
+    background-color: #212121;
+    padding: 10%;
+}
+.absec1 {
+    padding-left: 24%;
+}
+.line1 {
+    margin-top: 14px;
+    margin-right: 10px;
+    background-color: #F8DA64;
+    width: 40px;
+    height:3px;
+}
+.inline1 {
+    display: flex;
+    color: #818c96;
+    font-size: 20px;
+}
+.inline2 {
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    color: #818c96;
+    font-size: 20px;
+}
+.aboutus-p {
+    color: #818c96;
+    padding-bottom: 20px;
+}
+.absec1 a {
+    border-radius: 6px;
+    padding: 6px 25px;
+    color: #F8DA64;
+    border: 1px solid #F8DA64;
+    text-decoration: none;
+}
+.absec1 h2{
+    padding-bottom: 20px;
+}
+.us{
+    display: flex;
+    margin-top: 4%;
+}
+.bottom_section {
+    width: 25%;
+    text-align: center;
+}
+h2.num {
+    font-size: xx-large;
+    color: white;
+}
+span.symbol {
+    color:#f8da63
+}
+.reviews {
+    margin: 20px;
+    width: 30%;
+    border: 2px solid white;
+    border-radius: 19px;
+    padding: 24px;
+    color: #818c96;
+    background: linear-gradient(143deg, rgba(32, 32, 32, 1) 45%, rgb(49 40 108) 100%);
+}
+p.testimonial-heading2 {
+    text-align: center;
+    font-size: 39px;
+}
+.offer-expires {
+    background:url(https://hashinclude.info/time-bg.50c998895fad7be4.svg);
+    background-color: #624BFF;
+    border-radius: 20px;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 4%;
+    padding: 3%;
+}
+.grab-heading {
+    font-size: 50px;
+}
+.tick-text {
+    padding: 10px;
+    font-size: 20px;
+}
+.tick-text img{
+    padding-right: 10px;
+}
+.applynow a {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 6px;
+    padding: 10px;
+}
+.applynow {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.offer-heading {
+    font-size: 30px;
+}
+.time {
+    font-size: 80px;
+}
+.timetext {
+    font-size: 30px;
+}
+.time-sec {
+    padding: 8% 3%;
+}
+
+/* from here footer section starts  */
+
+.footer {
+    margin: 7% 0% 0% 0%;
+    background:url(https://hashinclude.info/footer-bg.cc00989cacc2122a.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer-sec1 {
+    padding-top: 7%;
+    padding-bottom: 2%;
+    color: #0b7077;
+}
+.footer-sec2 {
+    padding: 10px 3px;
+}
+.footer-sec2 img{
+    padding-right: 10px;
+}
+.footer-sec3 {
+    color: black;
+}
+.footer-sec3 a{
+    text-decoration: none;
+    color:black;
+}
+.footer-links {
+    margin-top: 20px;
+}
